@@ -1,0 +1,2 @@
+# kazimiersmith.us
+Academic website
